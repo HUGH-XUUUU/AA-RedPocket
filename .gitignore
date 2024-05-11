@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+.coverage.json
+typechain
+typechain-types
+.DS_Store
+DeployInformation.json
+
+# Hardhat files
+cache
+artifacts
+scripts/helper/*
+!scripts/helper/GasEstimateAndExcute.js
+!scripts/helper/deploySender.js
+!scripts/helper/RefundTestUtils.js

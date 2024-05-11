@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.6.0",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/merkle-tree": "^1.0.5",
+    "dotenv": "^16.3.1",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.11",
+    "snarkjs": "^0.7.2"
+  }
+}
